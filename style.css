@@ -142,14 +142,12 @@ footer {
   color: white;
 }
 
-#contact-form {
-  bottom: 30px;
-  left: 30px;
-  background: #006666;
-  color: white;
-  border: none;
-  padding: 10px 15px;
-  border-radius: 50%;
-  cursor: pointer;
-  display: none;
+#contact {
+  padding: 80px 50px;
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  background: rgba(203, 20, 240, 0.85);
+  margin: 20px;
+  border-radius: 10px;
+  color: #333;
 }
